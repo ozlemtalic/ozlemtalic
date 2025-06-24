@@ -1,4 +1,4 @@
-### 👋 Merhaba! Ben Özlem Talic
+### 👋 Merhaba! Ben Özlem
 
 🔹 SAP Business One uzmanıyım: Kurulum, destek, Crystal Reports  
 🔹 Şu anda API, veri analizi ve bulut teknolojilerini öğreniyorum  
